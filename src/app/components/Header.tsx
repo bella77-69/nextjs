@@ -9,7 +9,7 @@ export default function Header() {
         </Link>
 
         <Link href="/posts" className="text-xl font-bold">
-          Blog Posts{" "}
+          Blog Posts
         </Link>
       </div>
     </header>
